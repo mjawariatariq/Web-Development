@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Generics</title>
+</head>
+<body> 
+    <ul>
+    <li>Homepage</li>
+    <li>About</li>
+    <li>store</li>
+    <hr>
+    <h1>The Generic</h1>
+    <br>
+    <br>
+    <h2>About</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ipsum ex blanditiis magni aut nihil quis tenetur eveniet consequuntur perferendis, perspiciatis eos nam vero id fugiat dicta qui. Eius, sed.</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Temporibus, nobis optio dolor nihil, consequatur dicta harum officiis, distinctio exercitationem quasi saepe. Blanditiis, at sit veritatis obcaecati dolore itaque iure dignissimos!</p>
+    <img src="image/abc.webp"width="500px alt="MARRY PIC">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus animi placeat voluptatem repellat consequatur magnam, molestias ex ab, similique odio rem sapiente, veritatis neque vero necessitatibus maiores blanditiis eaque praesentium.</p>
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate quod corrupti doloribus. Deserunt, consequuntur ducimus recusandae natus reprehenderit tenetur quaerat eius voluptate reiciendis minima corrupti, laborum minus? Fugit, voluptatum incidunt.</p>
+    <h2>The Generies</h2>
+    <ul>
+        <li><img src="" alt=""></li>
+    </ul>
+    </ul>
+    
+</body>
+</html>
