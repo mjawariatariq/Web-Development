@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Home Page</title>
+</head>
+
+<body>
+
+    <h1>Home Page</h1>
+
+    <a href="contact-us.html">Contact Us</a>
+    
+    <ol>
+        <li>Java Overview</li>
+        <li>Java Introduciton</li>
+        <li>Java Variables</li>
+        <li>Java Loops</li>
+    </ol>
+
+    <ul>
+
+        <hr>
+        <hr>
+
+        <li>Java Overview</li>
+        <li>Java Introduciton</li>
+        <li>Java Variables</li>
+        <li>Java Loops</li>
+    </ul>
+
+    <img src="images/laptop.webp" alt="Laptop">
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. <b>Ducimus, sed fuga, molestias tempore pariatur at
+            nesciunt doloremque nostrum dolor quia porro vitae velit aperiam optio hic deleniti ea minima ipsam?</p>
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. <br><br> Reprehenderit nisi aut nemo similique rerum ullam
+    modi
+    perferendis soluta iure architecto temporibus iusto eligendi libero earum ab, beatae praesentium obcaecati.
+    Commodi.
+
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt incidunt, enim, possimus magnam voluptate
+    inventore quo voluptatibus harum tempore aperiam commodi saepe repellat doloremque doloribus culpa nisi
+    minus
+    eius in!
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laboriosam quo cupiditate corrupti nemo numquam
+        eveniet debitis at illo sunt beatae non, sint autem ipsam ratione commodi ipsum reprehenderit assumenda aliquid.
+
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Incidunt illum facilis natus aut corporis a, maxime
+        est, fuga saepe qui odio unde corrupti laboriosam, placeat molestiae ipsa tempore dignissimos. Cum?
+    </p>
+
+    <p>
+        Lorem ipsum dolor sit amet consectetur, adipisicing elit. Debitis totam, eum vero ea facilis modi, officia neque
+        rem animi in non nam, numquam voluptatum consequatur nostrum. Enim quos inventore pariatur.
+    </p>
+
+    <a href="https://www.google.com"></a>
+</body>
+
+</html>
