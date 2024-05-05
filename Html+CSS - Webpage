@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Programming Language Portal</title>
+</head>
+<body>
+    <style>
+    body {
+        background-color: #3689fd; 
+    }
+    
+    h1 {
+        text-align: center;
+    }
+    
+    img {
+        border: 5px solid #f3f5f8;
+    }
+    
+    p {
+        color: #f9f7fb;
+    }
+    
+    a {
+        background-color: #c5c5e9;
+        width: 200px;
+    }
+    
+    ul {
+        list-style-type: none;
+    }
+    
+    a {
+        color: #020000;
+    }
+    
+    a:hover {
+        color: rgb(170, 90, 216);
+    }
+    
+</style>
+    <ul>
+        <li><a href="Home.html">Home</a></li>
+        <li><a href="About.html">About</a></li>
+        <li><a href="Contact.html">Contact</a></li>
+    </ul>
+    <h1>Programming Language Portal</h1>
+    <h2>Purpose</h2>
+    <p>The ‘Programming Language Portal’ is a place where you can learn different programming languages. It gives you learning materials, step-by-step guides, and helpful tips to write computer programs better.</p>
+    <img src="D:\Classroom html-CSS\image\image.png"alt="Programmer">
+    <hr></hr>
+    <h2>Some Popular Resources</h2>
+    <p>These resources are designed to enhance your coding skills, enabling you to code with a high degree of professionalism.</p>
+    <a href="https://www.tutorialspoint.com/index.htm">tutorialspoint</a>
+    <hr>
+    <a href="https://www.codewithharry.com/">Codewithharry</a>
+    <hr>
+    <a href="https://www.codecademy.com/">codecademy</a>
+    <hr>
+    <a href="https://www.youtube.com/@ApnaCollegeOfficial">ApnaCollegeOfficial</a>
+
+</body>
+</html>
