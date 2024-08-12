@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: #172720;
+}
+
+.wrapper {
+    width: 420px;
+    background-color: rgb(252, 255, 252);
+    padding: 20px;
+    border-radius: 8px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+
+.wrapper h1 {
+    margin-bottom: 20px;
+}
+h1{
+    margin: 20px;
+    text-align: center;
+}
+
+.inputbox {
+    width: 100%; 
+    height: 60px; 
+    margin-bottom: 20px;
+    position: relative; 
+}
+
+.inputbox input {
+    width: 100%;
+    height: 100%;
+    padding-left: 40px;
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    background: transparent;
+}
+
+.inputbox i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 20px;
+    color: #888;
+}
+
+.remember-me {
+    margin-bottom: 20px; 
+}
+
+button {
+    width: 100%;
+    padding: 15px;
+    background-color: #119c15;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.RegisterLink {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.RegisterLink a {
+    color: #4caf50;
+    text-decoration: none;
+}
+
+.RegisterLink a:hover {
+    text-decoration: underline;
+    color: #45a049;
+}}
